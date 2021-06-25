@@ -1,0 +1,34 @@
+nishad - {
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjBiZGY0ZWU3MTMzY2I0MzA3ZTNhMDljIn0sImlhdCI6MTYyMzE0MDkzMSwiZXhwIjoxNjI2NzQwOTMxfQ.ovcrTXnvhBan6v2zNFK6f-Sp24stH8DVw1ibTCn6NTc"
+} 
+
+
+roshan - {
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjBiZTVmODhjMzYxMWIyM2MyNDcwN2NjIn0sImlhdCI6MTYyMzE0MDk5MCwiZXhwIjoxNjI2NzQwOTkwfQ.5YVyGWID4g8LscP9yFvNUG9Kg29Tgs5Khin5mCQTw7I"
+  {
+  "social": {
+    "instagram": "https://www.instagram.com/mayberoshan"
+  },
+  "skills": [
+    "HTML",
+    "CSS",
+    "Leetcode",
+    "MERN",
+    "Codechef"
+  ],
+  "_id": "60bf35d1dad5d3372dbfcda8",
+  "user": "60be5f88c3611b23c24707cc",
+  "company": "VIT",
+  "website": "https://www.vit.com",
+  "location": "Pune",
+  "bio": "Student at VIT",
+  "status": "Student",
+  "githubusername": "RoshanP7",
+  "experience": [],
+  "education": [],
+  "date": "2021-06-08T09:18:09.809Z",
+  "__v": 0
+}
+
+
+}

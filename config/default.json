@@ -1,0 +1,6 @@
+{
+	"githubClientId": "bc62b3fc6053b3918f9f",
+	"githubSecret": "246444241e902266a65eb84fa05511e68f1d545c",
+	"jwtToken": "mysecrettoken",
+	"mongoURI": "mongodb+srv://nishad:nishad@devconnect.fr3mn.mongodb.net/test"
+}
